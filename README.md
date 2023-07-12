@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 ## What next?
 You can edit the .pptx file to your liking (E.g. Apply on your own template.)
-![template](readme_pics/template.jpeg
+![template](readme_pics/template.jpeg)
 
 ## Constraint
 Since I decided on the program for making name tags, In your .csv file can only contain 2 columns at the maximum.
