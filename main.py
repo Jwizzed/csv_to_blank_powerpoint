@@ -28,7 +28,7 @@ class BlankTextSlide:
 
 
 if __name__ == '__main__':
-    file_path = input("Enter the path to the csv file: ")
+    file_path = input("Enter the path to the csv file: ") # Ex: "example.csv"
     b = BlankTextSlide(file_path)
     b.print_data_info()
     b.create_slide()
