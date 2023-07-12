@@ -17,3 +17,6 @@ pip install -r requirements.txt
 
 ## Example output:
 ![pp](readme_pics/pp.jpeg)
+
+## Constraint
+Since I decided on the program for making name tags, In your .csv file can only contain 2 columns at the maximum.
